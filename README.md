@@ -1,7 +1,6 @@
 # RL-Value-approximation-and--deep-Q
 
 
-[![Report](https://img.shields.io/badge/Documentation-Technical%20Report-blue)](report/RL lab 4.pdf)  
 
 ## path to the report:  report/RL lab 4.pdf
 # Lab 4 – Monte Carlo vs Deep Q-Learning
